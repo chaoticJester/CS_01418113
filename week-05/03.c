@@ -25,10 +25,9 @@ void shift_left(char str[], int n) {
     while(str[size] != '\0') {
         size++;
     }
-    times = n;
     if(size == 0) {
         times = 0;
-    } else if(n >= size * size) {
+    } else {
         times = n % size;
     }
     while(times > 0) {
