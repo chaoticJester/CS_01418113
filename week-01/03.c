@@ -4,7 +4,7 @@
 int main() {
     float preGrade = 1.75;
     int preCredit = 21;
-    int credit = 19;
+    int credit = 18;
     float requiredGrade = 2.00;
     //--------------
     int totalC = preCredit + credit;

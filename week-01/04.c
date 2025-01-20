@@ -1,5 +1,4 @@
 // Escape Squence (เพิ่มเติม)
-
 #include <stdio.h>
 
 int main() {

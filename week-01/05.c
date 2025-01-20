@@ -1,5 +1,4 @@
 //ทอนเงิน (อย่างง่าย)
-
 #include <stdio.h>
 
 int main() {

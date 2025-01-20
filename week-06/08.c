@@ -21,7 +21,7 @@ int main()
 
 	for (i = 0; i < numPrisoners; i++) {
 		int round;
-		if(i == 0) {
+		if(i == 0 ) {
 			round = 1;
 		} else {
 			round = 0;
