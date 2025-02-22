@@ -1,4 +1,4 @@
-//07 Hashing - Chaining (Cc
+//07 Hashing - Chaining (C)
 #include <stdio.h>
 #include <stdlib.h>
 
